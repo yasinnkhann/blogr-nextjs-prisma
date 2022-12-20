@@ -1,5 +1,3 @@
-// pages/p/[id].tsx
-
 import React from 'react';
 import { GetServerSideProps } from 'next';
 import ReactMarkdown from 'react-markdown';
